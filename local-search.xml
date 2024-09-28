@@ -4,26 +4,27 @@
   
   
   <entry>
-    <title></title>
+    <title>关于hexo+fluid主题的使用</title>
     <link href="/2024/08/10/%E7%AC%AC%E4%B8%80%E7%AF%87/"/>
     <url>/2024/08/10/%E7%AC%AC%E4%B8%80%E7%AF%87/</url>
     
-    <content type="html"><![CDATA[<h1 id="我"><a href="#我" class="headerlink" title="我"></a>我</h1><p>我，是世界的，也是世界的。</p>]]></content>
+    <content type="html"><![CDATA[<p>首先是关于文章最开头的属性设置，列举常用的属性设置方便后面查询：</p><ul><li><p><code>hide：true</code> 可以隐藏文章</p></li><li><p><code>archive: true</code> 可以设置文章的归档</p></li><li><p><code>categories: [分类]</code> 可以给文章分类</p></li><li><p><code>tags: [标签]</code> 可以给文章打标签</p></li><li><p><code>date: 2021-04-17 15:00:00</code> 可以设置文章的发布时间</p></li><li><p><code>updated: 2021-04-17 15:00:00</code> 可以设置文章的更新时间</p></li><li><p><code>index_img: /img/1.jpg</code> 可以设置文章的封面图片</p></li></ul><p>还有一些不太会用的语法</p><ul><li>使用便签</li></ul><div class="note note-success">            <p>文字 或者 <code>markdown</code> 均可</p>          </div><ul><li>或者行内便签</li></ul><span class="label label-primary">text</span><ul><li>折叠块</li></ul>    <div class="fold">      <div class="fold-title fold-info collapsed" data-toggle="collapse" href="#collapse-b5714680" role="button" aria-expanded="false" aria-controls="collapse-b5714680">        <div class="fold-arrow">▶</div>title      </div>      <div class="fold-collapse collapse" id="collapse-b5714680">        <div class="fold-content">          <p>需要折叠的一段内容，支持 markdown</p>        </div>      </div>    </div>]]></content>
     
     
-    
-  </entry>
-  
-  
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="/2024/08/10/hello-world/"/>
-    <url>/2024/08/10/hello-world/</url>
-    
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    <categories>
+      
+      <category>博客</category>
+      
+    </categories>
     
     
+    <tags>
+      
+      <tag>Hexo</tag>
+      
+      <tag>Fluid</tag>
+      
+    </tags>
     
   </entry>
   
