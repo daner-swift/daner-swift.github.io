@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Tai&#39;s Blog</title>
+  
+  
+  <link href="https://daner-swift.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://daner-swift.github.io/"/>
+  <updated>2024-10-01T13:00:35.591Z</updated>
+  <id>https://daner-swift.github.io/</id>
+  
+  <author>
+    <name>Tai</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>关于hexo+fluid主题的使用</title>
+    <link href="https://daner-swift.github.io/2024/08/10/%E7%AC%AC%E4%B8%80%E7%AF%87/"/>
+    <id>https://daner-swift.github.io/2024/08/10/%E7%AC%AC%E4%B8%80%E7%AF%87/</id>
+    <published>2024-08-10T15:21:34.000Z</published>
+    <updated>2024-10-01T13:00:35.591Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;首先是关于文章最开头的属性设置，列举常用的属性设置方便后面查询：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;code&gt;hide：true&lt;/code&gt; 可以隐藏文章&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;code&gt;archive: true&lt;/code&gt; 可以设置文章的归档&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    <category term="博客" scheme="https://daner-swift.github.io/categories/%E5%8D%9A%E5%AE%A2/"/>
+    
+    
+    <category term="Hexo" scheme="https://daner-swift.github.io/tags/Hexo/"/>
+    
+    <category term="Fluid" scheme="https://daner-swift.github.io/tags/Fluid/"/>
+    
+  </entry>
+  
+</feed>
